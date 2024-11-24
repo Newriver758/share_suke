@@ -10,14 +10,14 @@
                 <mxCell id="4" value="一覧ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="80" y="120" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="ユーザー詳細ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="運行便詳細ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="400" y="240" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="運行便編集ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="160" y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="運行便詳細ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="240" y="240" width="120" height="60" as="geometry"/>
+                <mxCell id="7" value="有休取得者投稿ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="240" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="運行便投稿ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="85" y="240" width="120" height="60" as="geometry"/>
@@ -59,6 +59,15 @@
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="159" y="238.98" as="sourcePoint"/>
                         <mxPoint x="160" y="159.99999999999997" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="ユーザー詳細ページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="endArrow=none;html=1;entryX=0.6;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="240" as="sourcePoint"/>
+                        <mxPoint x="160" y="160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>

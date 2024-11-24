@@ -1,24 +1,56 @@
-# README
+# アプリケーション名
+Share助
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+ユーザーのスケジュール共有及び有給休暇取得者のスケジュールの把握ができます。
 
-Things you may want to cover:
+# URL
 
-* Ruby version
+# テスト用アカウント
 
-* System dependencies
+# 利用方法
 
-* Configuration
+# アプリケーションを作成した背景
+運送会社代行乗務員の配車スケジュールが会社のPCでしか確認できず、配車変更などの際は電話連絡をするなどの煩わしさがあった。このアプリを使用すると気軽にスマホでスケジュールを共有することができます。
 
-* Database creation
+# 実装した機能についての画像やGIFおよびその説明
 
-* Database initialization
+# 実装予定の機能
+勤務時間の管理
 
-* How to run the test suite
+# データベースの設計
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# 画面遷移図
 
-* ...
+
+# 開発環境
+・フロントエンド
+  HTML・CSS
+
+・バックエンド
+  Ruby
+
+・インフラ
+
+
+・テスト
+
+
+・テキスト
+
+
+・タスク管理
+
+
+# ローカルでの動作方法
+
+
+# 工夫したポイント
+
+
+# 改善点
+
+
+# 制作時間
+
